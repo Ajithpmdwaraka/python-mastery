@@ -1,0 +1,1 @@
+# Comments are notes written in code that the interpreter ignores,
