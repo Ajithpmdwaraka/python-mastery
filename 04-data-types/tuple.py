@@ -1,0 +1,6 @@
+# Example of a tuple
+numbers = (1, 2, 3, "Ajith", 3.14)
+
+# Tuples are immutable
+# numbers[0] = 10   ❌ (Error: can't modify)
+print(numbers)   # (1, 2, 3, 'Ajith', 3.14)
