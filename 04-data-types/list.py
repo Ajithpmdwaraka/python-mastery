@@ -1,4 +1,4 @@
-# Example of a list
+# List is an ordered collection of mutable items
 fruits = ["apple", "banana", "cherry", 10, True]
 
 # Lists are mutable
